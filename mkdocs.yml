@@ -2,3 +2,6 @@ site_name: My site
 site_url: https://www.dbloada.ai
 theme:
   name: material
+  palette:
+    scheme: slate
+
